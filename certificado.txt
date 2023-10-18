@@ -1,0 +1,4 @@
+"AadClientId": "654815bd-f1bb-4cb4-b5b3-b7f25306fcdb",
+  "AadSecret": "KR28Q~qxnB4JEpky0jzauBUe-ocHrPkFhtycIb8i",
+  "AadTenantDomain": "solutions3sun.onmicrosoft.com",
+  "AadTenantId": "34b17b69-a6a0-4b45-a37f-a75605881fe4",
